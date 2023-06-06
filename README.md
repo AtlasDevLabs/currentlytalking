@@ -1,2 +1,2 @@
 # currentlytalking
-View who is talking in fivem
+currently talking + optimization 
