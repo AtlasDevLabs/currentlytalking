@@ -1,5 +1,3 @@
-# Currently Talking Text
+# Currently Talking 
 
-- Shows the players name and id
-- Optimized
-  More Updates Coming Soon 😀
+- Shows the players name and id - Optimized - More Updates Coming Soon 😀
