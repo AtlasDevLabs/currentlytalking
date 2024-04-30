@@ -33,3 +33,4 @@ function drawTxt(x, y, width, height, scale, text, r, g, b, a)
     AddTextComponentString(text)
     DrawText(x, y)
 end
+ 
