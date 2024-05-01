@@ -1,6 +1,6 @@
 # Currently Talking 
 
-this script was made due to using resources like PMA-voice and resources that require you to remove vMenus default voice chat options
+This script was created as a result of use tools like as PMA-voice and other voice chat scripts that needs the default voice chat settings in vMenu to be disabled.
 
 # Optimization
 
