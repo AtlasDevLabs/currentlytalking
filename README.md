@@ -4,4 +4,4 @@ this script was made due to using resources like PMA-voice and resources that re
 
 # Optimization
 
-i need to optimize the script a bit more to be worth adding but its a good script none the less
+Script is Currently at (0.07-0.09ms) need to optimize the script a bit more to be worth adding but its a good script none the less
